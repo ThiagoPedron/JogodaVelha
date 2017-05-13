@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="textView">Jogador: 1</string>
+    <string name="player">Jogador: %s</string>
+    <string name="vencedor">%s venceu!!!</string>
+    <string name="velha">Deu velha!!!!</string>
+</resources>
